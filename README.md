@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Obsa Abdulkadir
-- 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning web-development
-- 💞️ I’m looking to collaborate on competitive prgraming problems93449838
-- 📫 How to reach me @ t.me/Ob54k1ng
+- 👋 Hi, my name is **Obsa Abdulkadir**
+- 👀 I am **Software Engineering**
+- I am trying to develop **FLutter Applications** and design **UI/UX designing**
+- 🌱 I’m currently learning **Machine learning**
+- 💞️ I’m collaborating on **leetcode** and **codeforces**
+- 📫 You can reach me on telegram ```@t.me/Obsa00```
 
 <!---
 Obsaabdu/Obsaabdu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
