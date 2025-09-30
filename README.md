@@ -1,18 +1,18 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=56&duration=2500&pause=1000&color=FF7F50&center=true&width=700&lines=Obsa+Abdulkadir;Mobile+%26+Backend+Dev;AI%2FML+Enthusiast" alt="Typing Name"/>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=56&duration=2500&pause=1000&color=0A38CF&center=true&width=1000&height=100&lines=Hi+There+👋;I'm+Obsa+Abdulkadir!" alt="Typing Name"/>
+</h1>
 
 🚀 Mobile & Backend Developer | AI/ML Enthusiast | Open Source Lover  
 
 - 🔭 Currently working on **ShopAlly** – AI-powered shopping assistant  
 - 🌱 Learning Go, TypeScript, and building scalable backend systems  
-- ⚡ Fun fact: <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1500&color=00FFAA&center=true&width=600&lines=I+debug+faster+with+coffee+☕;I+love+solving+algorithms+💻;I+build+stuff+that+makes+life+easier⚡;I+learn+new+tech+every+day🚀;I+enjoy+clean+code+✨" alt="Typing Fun Fact"/>
-
 
 ---
 
 ## 📊 GitHub Stats  
-![Obsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obsaabdu&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Obsaabdu&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Obsaabdu&theme=radical)  
+![Obsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obsaabdu&show_icons=true&theme=github_dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Obsaabdu&layout=compact&theme=github_dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Obsaabdu&theme=github_dark)  
 
 ---
 
