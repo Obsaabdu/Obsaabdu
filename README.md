@@ -10,9 +10,11 @@
 ---
 
 ## 📊 GitHub Stats  
-![Obsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obsaabdu&show_icons=true&theme=github_dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Obsaabdu&layout=compact&theme=github_dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Obsaabdu&theme=github_dark)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Obsaabdu&show_icons=true&theme=github_dark" width="33%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obsaabdu&layout=compact&theme=github_dark" width="24%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Obsaabdu&theme=github_dark" width="33%"/>
+</p> 
 
 ---
 
