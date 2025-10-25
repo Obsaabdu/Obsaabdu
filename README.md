@@ -22,8 +22,11 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFCA28?style=flat&logo=postgresql&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-05990C?style=flat&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=yellow)
+![Express](https://img.shields.io/badge/ExpressJS-020612?style=flat&logo=express&logoColor=white)
+![Nest](https://img.shields.io/badge/NestJS-B50D0D?style=flat&logo=nestjs&logoColor=white)
 
 ---
 
