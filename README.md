@@ -2,10 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=56&duration=2500&pause=1000&color=0A38CF&center=true&width=1000&height=100&lines=Hi+There+👋;I'm+Obsa+Abdulkadir!" alt="Typing Name"/>
 </h1>
 
-🚀 Mobile & Backend Developer | AI/ML Enthusiast | Open Source Lover  
+🚀 CTO of Golden Age Technology  
 
-- 🔭 Currently working on **ShopAlly** – AI-powered shopping assistant  
-- 🌱 Learning Go, TypeScript, and building scalable backend systems  
+- 🔭 Currently working in **Golden Age** as CTO
+- - 🌱 Building Systems by NestJs, NextJs, Tanstack.  
 
 ---
 
